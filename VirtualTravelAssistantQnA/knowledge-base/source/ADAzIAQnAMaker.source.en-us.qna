@@ -1,0 +1,70 @@
+> !# @source.endpoint=https://adaziaqnamakerdev.cognitiveservices.azure.com/
+> !# @source.kbId=7ec8714f-faca-45ac-a377-6aaa1ed849bd
+> # QnA pairs
+
+> !# @qna.pair.source = Editorial
+
+<a id = "75"></a>
+
+# ? Why travel is required?
+- Why do I need to travel?
+- What are the reasons to Travel?
+- Why organization requires us to Travel?
+
+```markdown
+Organization require you to travel to a different location for a professional work. The reasons could be to attend some meeting, for a professional training, to perform some on-site work etc. The travel must have a business reason and requires approval from your reporting manager.
+```
+
+> !# @qna.pair.source = Editorial
+
+<a id = "76"></a>
+
+# ? Is there any approval needed for a travel?
+- Do we need approval for travel?
+- Is any approval required for Travel?
+
+```markdown
+Yes, approval is required. Your reporting manager must validate the business reason for travel and the approve it. In some scenarios, approval is also required from business head.
+```
+
+> !# @qna.pair.source = Editorial
+
+<a id = "77"></a>
+
+# ? What are different modes of travel allowed?
+- What are different options of travel allowed?
+- What are different options available for Travel?
+- How many ways we can travel?
+
+```markdown
+You can travel by Air if destination is 200 miles away from your location. Else you need to travel by road or by train.
+```
+
+> !# @qna.pair.source = Editorial
+
+<a id = "78"></a>
+
+# ? What type of Air travel allowed?
+- What is the rules for Air travel?
+- Could you please tell me flight booking options?
+- What is flight booking policy?
+
+```markdown
+Employees are encouraged to opt Air travel with minimum fare. Employees at Trainee level are entitled for only economy class Air travel. Other employees could opt for a business class if economy class is not available.
+```
+
+> !# @qna.pair.source = Editorial
+
+<a id = "79"></a>
+
+# ? What are different facilities provided during a travel?
+- What services provided during travel?
+- What type of amenities provided during travel?
+- What are different benefits provided during travel? 
+- What travel facilities are offered by our organization?
+
+```markdown
+You will be provided travel tickets to and from the destination. Also you will get pick-up and drop facilities from and to the Airport. There are lot of other services available which could be availed – for more detail, please refer latest travel policy document.
+```
+
+
